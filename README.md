@@ -11,3 +11,12 @@ The B. graminis formae speciales isolates used for the tree were: B. graminis fs
 Annotation for these genomes were either obtained from https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-017-1064-2#Sec21 or annotated denovo using the pipeline described in Frantzeskakis BMC genomics 2018. 
 
 Secretomes used and the IQTREE output can be found in https://github.com/lambros-f/avra6_2019.
+
+Files:
+all_seqs.fa.aln.* : IQtree output
+output.11346066.txt : IQtree logfile
+\*.secreted.notmhmm.fa : Secretomes of Bg spp used for the alignment and IQtree. These sequences are without the signal peptide predicted by SignalP. 
+20191105_alignment_and_iqtree.sh : This is the script I submitted.
+
+The alignment file from mafft was to large to upload on github, should be easily recreated using \*.secreted.notmhmm.fa .
+
