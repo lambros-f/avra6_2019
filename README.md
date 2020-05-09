@@ -13,9 +13,13 @@ Annotation for these genomes were either obtained from https://bmcevolbiol.biome
 Secretomes used and the IQTREE output can be found in https://github.com/lambros-f/avra6_2019.
 
 Files:
+
 all_seqs.fa.aln.* : IQtree output
+
 output.11346066.txt : IQtree logfile
+
 \*.secreted.notmhmm.fa : Secretomes of Bg spp used for the alignment and IQtree. These sequences are without the signal peptide predicted by SignalP. 
+
 20191105_alignment_and_iqtree.sh : This is the script I submitted.
 
 The alignment file from mafft was to large to upload on github, should be easily recreated using \*.secreted.notmhmm.fa .
