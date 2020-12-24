@@ -1,4 +1,4 @@
-# Phylogeny of B. graminis spp. candidate effectors
+# Phylogeny of B. graminis spp. candidate effectors - Methods
 
 In order to generate a phylogenetic tree for all the candidate effectors of sequenced B. graminis fsp IQ-TREE multicore version 1.6.beta4 for Linux 64-bit built Jun 21 2017 was used *(command: iqtree-1.6.beta4-Linux/bin/iqtree -m VT+R8 -s all_seqs.fa.aln -nt 12 -bb 1000)*.
 
@@ -22,3 +22,4 @@ output.11346066.txt : IQtree logfile
 
 The alignment file from mafft was to large to upload on github, should be easily recreated using \*.secreted.notmhmm.fa .
 
+For any requests, additional information please contact me at lamprinos'dot'frantzeskakis'at'bayer'dot'com or the corresponding author of the manuscript. 
